@@ -1,0 +1,40 @@
+#title_trove{
+    color: red;
+    margin-left: 50px;
+    margin-top: -60px;
+}
+#title_today{
+    margin-left:200px;
+    margin-top:-67px;
+}
+#title_watch{
+    margin-left:350px;
+    margin-top:-60px;
+}
+#title_explore{
+    margin-left: 500px;
+    margin-top:-67px;
+}
+#login_button{
+    width: 130px;
+    height: 70px;
+    background-color: red;
+    border-radius: 10px;
+    margin-left: 1500px;
+    margin-top: 80px;
+}
+#login_button:hover{
+    background-color: white;
+    box-shadow: 20px;
+}
+#signup_button{
+    width: 130px;
+    height: 70px;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 30px;
+}
+#welcome_trove{
+    margin-top: 40px;
+    margin-left: 100px;
+}
